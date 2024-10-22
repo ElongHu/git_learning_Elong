@@ -2,4 +2,4 @@ diff meassage!
 
 other diff message!
 
-add a message!
+add a diff message!
