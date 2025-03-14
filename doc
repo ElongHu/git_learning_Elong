@@ -2,3 +2,7 @@ I am a file
 \\192.168.0.170\server\ARIS_Public\实验室事务\四川科技奖-技术报告撰写材料\报告1109
 https://access.shandiancn.com/#/dashboard
 https://times1731832467.subxiandan.top:9604/v2b/shandian/api/v1/client/subscribe?token=293d62943d0868e5d753ec957fd83dc0
+
+
+dashscope.api_key="sk-60f739c8926247f5b22b23c67b075418"
+DASHSCOPE_API_KEY = "sk-60f739c8926247f5b22b23c67b075418"
